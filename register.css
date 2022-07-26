@@ -14,6 +14,7 @@
 
 .a-glow {
   width: 250px;
+  margin-bottom:2%;
 } 
 
 .a-glow:focus {
@@ -86,4 +87,12 @@
 small {
   margin-top: 25px;
   color: #c1c1c1;
+}
+
+.topic{
+  padding: 0 20%;
+}
+
+.meetup-topic{
+  color:#8b64ce;
 }
