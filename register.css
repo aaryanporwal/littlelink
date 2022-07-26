@@ -88,3 +88,11 @@ small {
   margin-top: 25px;
   color: #c1c1c1;
 }
+
+.topic{
+  padding: 0 20%;
+}
+
+.meetup-topic{
+  color:#8b64ce;
+}
