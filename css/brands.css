@@ -115,7 +115,7 @@ button:hover,
   filter: brightness(90%);
 }
 @media screen and (min-width: 600px) {
-  .button.button-instagram {
+  .button.button-span-both {
     width: 97.7%
   }
 }
